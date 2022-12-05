@@ -15,9 +15,9 @@ Rozdział I - podstawowe definicje:
   - Ogólne omówienie algorytmu QAOA (i pobieżne VQA)
 
 Rozdział II - próby wdrożenia
+  - Odmiany QAOA, hiperoptymalizacja i część klasyczna
   - Wdrożenia komercyjne kwantowych algorytmów optymalizacyjnych,
   - Opłacalność wdrażania, porównanie z klasycznymi, bariery i perspektywy (połączyć z powyższym), dostępna infrastruktura
-  - Warianty, możliwe zmiany w algorytmie QAOA (w tym algorytmy stosowane w części klasycznej)
   - Zdefiniowanie problemów VRP w języku QAOA
 
 Rozdział III - samodzielne wyprowadzenie
